@@ -44,3 +44,8 @@ To use this daily planner application, simply follow these steps:
 ## License
 
 Seperate licence file
+
+## Links
+GitHub repo: https://github.com/dbrunson21/Work-Day-Scheduler.git
+Live site: https://dbrunson21.github.io/Work-Day-Scheduler/
+
